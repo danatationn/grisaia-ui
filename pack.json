@@ -1,0 +1,9 @@
+{
+	"Name": "Grisaia UI",
+	"Author": "danatationn",
+	"Description": "Changes the UI to be more similar to the Grisaia visual novel series.",
+	"Version": {
+		"major": 1,
+		"minor": 0
+	}
+}
